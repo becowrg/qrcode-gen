@@ -1,7 +1,6 @@
 {
   "short_name": "QR Code Gen",
   "name": "Generate a qr code",
-  ],
   "id": "/?source=pwa",
   "start_url": "/?source=pwa",
   "background_color": "#3367D6",
