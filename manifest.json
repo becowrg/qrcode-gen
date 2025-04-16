@@ -12,8 +12,8 @@
       "name": "QR Code Generator",
       "short_name": "QR Gen",
       "description": "Generate QR Codes",
-      "url": "/?source=pwa",
+      "url": "/?source=pwa"
     },
   ],
-  "description": "Generates QR Codes",
+  "description": "Generates QR Codes"
 }
